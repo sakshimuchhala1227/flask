@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Flask Learning Repository</title>
+  
 </head>
 <body>
 
@@ -77,18 +77,6 @@ venv\Scripts\activate     # For Windows</code></pre>
     <li>Learn how HTTP methods work in Flask</li>
     <li>Build a foundation for developing APIs and web apps</li>
   </ul>
-
-  <hr>
-
-  <h2>✅ Status</h2>
-  <p>🚧 Currently in progress — new concepts and examples will be added as I learn more.</p>
-
-  <hr>
-
-  <h2>📬 Contact</h2>
-  <p>For collaboration or discussion:<br>
-  <strong>Sakshi Muchhala</strong><br>
-  <a href="https://www.linkedin.com/in/sakshimuchhala">LinkedIn</a> • <a href="https://github.com/sakshimuchhala1227">GitHub</a></p>
 
 </body>
 </html>
